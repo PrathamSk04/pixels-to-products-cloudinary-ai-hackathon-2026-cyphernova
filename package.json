@@ -1,0 +1,31 @@
+{
+  "name": "evitrace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "description": "AI-powered media pipeline that transforms messy media into traceable evidence",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/uuid": "^10.0.0",
+    "cloudinary": "^2.11.0",
+    "crypto-js": "^4.2.0",
+    "framer-motion": "^14.0.0",
+    "lucide-react": "^1.51.0",
+    "next": "^16.3.8",
+    "postcss": "^8.5.28",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "uuid": "^14.0.2"
+  }
+}
